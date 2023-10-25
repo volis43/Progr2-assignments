@@ -1,0 +1,2 @@
+C:\Users\volis\source\repos\ReturnToRealAlgorythm\Debug\ReturnToRealAlgorythm.exe
+C:\Users\volis\source\ReturnToRealAlgorythm\Algorithm\Debug\ReturnToRealAlgorythm.exe
